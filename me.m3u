@@ -446,53 +446,53 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978581/ei/d
 #EXTINF:-1 group-title="国际" tvg-logo="" tvg-id="", 韓國經濟電視台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978582/ei/dvqiZv7lJLqglu8P7vaE0As/ip/172.183.108.38/id/NJUjU9ALj4A.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/NO7bAVJ3E1VyHyeNH4YUUciw7X3bfGfbnq7283oTEltrNWD5FiT0LrVSq5HB_Ac/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXhG6MOXHFpnWoQWkvBH9GPxoi_FlIF1hca6NpA9bCkkCIQDBVVPT8T39V22u48dIsaKgy72Pwf-XMiOVgRYstSi_Tg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台频道",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台频道",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港台",凤凰香港
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", TVBS NEWS
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", TVBS NEWS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978562/ei/YvqiZtnjDLqWybgPjML3-Aw/ip/172.183.108.38/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAf4kOfgQsIxi4__-tdlYrwV1GTTmBHj0KuAAlZRZdmt_RBDaooOz0k5kfIY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAJs9k9svxOmFwOmsf_QkjXDr_HXah4Vnx-pMExrnCXQCIHn9rH0j450fxVE7e9rj61B5CAzYm225tU-78EZIhdVC/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 東森新聞 CH51
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 東森新聞 CH51
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 東森新聞世界日報
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 東森新聞世界日報
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 寰宇新聞台
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 寰宇新聞台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978563/ei/Y_qiZpC7KfWMybgPktWgsAw/ip/172.183.108.38/id/6IquAgfvYmc.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51225977/txs/51225977%2C51225978%2C51225979%2C51225980/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAb6hNj2cN3rRjO0YdX02EMJHjv6kC0o17O88w7vvxZUwyJKxk4O2ePMVuJ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMJvtFyUCQWKtr_7e_E5rA2_-i4CnGAq1SVTml4nX1TZAiB88a1iUay1GWe2oYsx-x_HLF_lLCWjkShtvjz65hUAEA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 寰宇新聞 台灣台
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 寰宇新聞 台灣台
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978564/ei/ZPqiZuudFoCa2_gPy47jgQs/ip/172.183.108.38/id/w87VGpgd90U.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51230699/txs/51230696%2C51230697%2C51230698%2C51230699%2C51230700%2C51230701%2C51230702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAb8nMH9rd1GFdOzAnFwBwt5c3Cmy_Ib9KAmb6X7Du7DAIsR4yQwj-x9bsLk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANVeXv1N3XN8k389D5THiM2_u88yTyj1WVsQS-v1NyyDAiBl_hpxULeGhD2Rw2hde8tq7A_UYI184RATElnsHkZSOw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 寰宇新聞財經台
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 寰宇新聞財經台
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 三立LIVE新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 三立LIVE新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978566/ei/ZvqiZprsCbmUybgPjICZqAY/ip/172.183.108.38/id/oZdzzvxTfUY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181296/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAYmKx5S87sq4I4cpPPIavmZkVw-Uq9sd_QCj9StgG9RHCvhTD3s05JYr9gU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgFyH7P1JI6lHK5zJGkDHLOc1DPmnE8JLYSwvmWzL7CjkCIQCmKOBIQkGKCZnyUrw4xaBi4hqUfBu93OEYig3cFpHCwg%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 中天新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 中天新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978566/ei/ZvqiZoGgM8SYybgP05GCsQI/ip/172.183.108.38/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181297/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAXkhHreeSz5tcnWvsZFz7p-m2DhmgFZJiieCcqImS0xN0rES3tbQyjGXxT4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCqVjrsCTMpK5HN2K6Jg11j3jk9tyVsxU8fxNHJIgxpsCIQCGTWR1WurjvvkjkRAAVW9oaFIITfwIK5GQ5pkJiw3iuQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 中視新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 中視新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978567/ei/Z_qiZp-cGtbsir4Ps4K_wAo/ip/172.183.108.38/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAaW_Jcu-P8FHivUIZALjSp2Hxbn_JYJnlETDooDH83CS_ojuu216BZgS7Rs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgNWk_ZWC-482WhMOxsah6kXH3IuAYCQojOT9JjZOCyhUCIQCeAcKNEmDvJMS73umRSaoNgsJNcLg7cyo5oLq9GQ5Vyw%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 公視新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 公視新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978568/ei/aPqiZoD4CLaylu8P5sDwkQU/ip/172.183.108.38/id/quwqlazU-c8.7/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51181298/txs/51181296%2C51181297%2C51181298/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAfmSeFU-Uh5EgdXuAC_Je_6Wa09SLXIhdbu6oXXhImJVfVJKP8TrKn3hOtU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIqNNQYqA-ivE4Mnwibr75eYOBJu6NEvlPNWCuJCQLn0CIQCu8vkiqJ6P-nWRD8mkzH6O_g3FiHLFILsA3hD6jso8sQ%3D%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 公視台語新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 公視台語新聞
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 民視新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 民視新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978569/ei/afqiZsnWDseEybgPo7GTqAo/ip/172.183.108.38/id/ylYJSBUgaMA.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51230697/txs/51230696%2C51230697%2C51230698%2C51230699%2C51230700%2C51230701%2C51230702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bATGbrcF1oTKc_2z4rwLRXMSWO-u5ZFz4IN6GwnAQzJ0SG-nLZzTREnPmBjU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQzTqLRBHHyyUl7RZf419_Q7D7IHnca2wM7i5l9n0MxsCIHWnWfM1sb4g7otLuhQhxPDEE3jHKky2hAchj2MDYf0w/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 台視新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 台視新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978569/ei/afqiZtGGN--xlu8P0c6FmQ8/ip/172.183.108.38/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51230696/txs/51230696%2C51230697%2C51230698%2C51230699%2C51230700%2C51230701%2C51230702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAY93Pyyd4ZcPm3v4R9o_6MXum2FSSEf5IJqBk0ELsHrU-MZdW7zHfJw2MtA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJIg2XTYJrw9BeTC-8bVbeMtl2nu-0CxfjmPhdqk4_cuAiEA8b3mL9QT4NMrl9P3la9Oo9okhWuY9sIwJ1kJPNdxPMA%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 華視新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 華視新聞
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
-#EXTINF:-1 group-title="港台频道" tvg-logo="" tvg-id="", 鏡新聞
+#EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 鏡新聞
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721978572/ei/bPqiZoOQBoyK2_gPmaS8gAE/ip/172.183.108.38/id/5n0y6b0Q25o.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcfqu0Nl6h_rvwdn1M5fbSBPIjXiAv7OMQBb5nIX_Pc1VcaE2lpzECj-wNo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgLH_UsL1mIBv67LTe9eIxl35nBlGZrJyc6k-PwVm8txYCIQDIFoRoVoq6AgzRFGrJ98RZjtJsvBa2qOSCgxq95W2nVg%3D%3D/file/index.m3u8
