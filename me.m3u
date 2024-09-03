@@ -464,9 +464,9 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="国际",印度NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
-http://www.91dos.cn:4022/rtp/239.61.2.183:9086
+http://wouu.net:9977/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="凤凰资讯B" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯B
-http://171.212.170.32:8088/udp/239.93.0.162:2192
+http://171.110.10.194:8181/tsfile/live/1083_1.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id=“TVBS新闻” tvg-logo=" " group-title="港台",TVBS新闻
