@@ -285,16 +285,30 @@ https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="国际",CNA-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726063708/ei/_E_hZryXM8_Gi9oP8YKC8AQ/ip/92.205.15.128/id/XWq5kBlakcQ.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257031/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9iWFdQxjGfbWveZktoo5iPidDaguCUxGgpJBLoDdrjEqK9vnZqUlXOgo4eY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgG3Yc0-pIRVOVfsCRZEeSXZc8J_qFiPWEJmVVkhgrtocCIQDrfhHNNSo_Iu0_bOtONXXzZBjna7Rfc8aTfquXepsYvg%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 group-title="国际",ABC News Live-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064309/ei/VVLhZs3TKL256dsP8sX1iQk/ip/92.205.15.128/id/-mvUkiILTqI.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257037/txs/51257033%2C51257034%2C51257035%2C51257036%2C51257037/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/spc/Mv1m9pU19eKOoGu5PuKREmCtEXv4ihQB2LUHsGyjg-t54cgtBBP84swogU0PyTg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgX_w3PwI_CHNvACwixiwLsdxmKTy8dlCtpTWtNPRIJusCIQDLmcmyQYKiByWFt60Nq0QNu-sapbFP1QvrzcF1OYLRMA%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="国际",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",LiveNowFOX-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064035/ei/Q1HhZqquC_nXi9oPtZ-0gA0/ip/92.205.15.128/id/RtIRsHJ5BrI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9rF4dMjqNuio-K-4Y2mBXY3sN1g7rUpxNQoAtcznByV-FPaeTisyRYUqFsg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIat48BArFTggjA83Mjg5PGGGZlaNG0MfniNw2pJVNxhAiADUF3W-nkSq3iAJy0yywDNiTN37Oszj6DyrzFk7OwbCw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+#EXTINF:-1 group-title="国际",NBC News Now-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064415/ei/v1LhZpPgB6SC6dsP2ZmlsQI/ip/92.205.15.128/id/AsBn1Y3gvjg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9jRaW60j63IKk7NbhUzl2D3c0itJssV1fiBztT-imW3E60r6FWZdYslUGqo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgAW0sA1qDA5Gk9i7NSm3jx5gmTrio_lii5i8-_XHHKeECIAL0VXVIGmlFKsJ35pNDhFpgU_omS841fAN-GubId97H/file/index.m3u8
 #EXTINF:-1 group-title="国际",Sky News
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 group-title="国际",Sky News-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064086/ei/dlHhZpe7Kp2N6dsP-Iec4AY/ip/92.205.15.128/id/oJUvTVdTMyY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51251779/txs/51251778%2C51251779%2C51251780%2C51251781%2C51251782/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/spc/Mv1m9le8QS0Fu99HcsUbshGo-4kDy_BCVpdQIGO9V2VeeY54iM2eGeRsGwPaAWo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfqSod46i4hMNkw7Y5pN9PN3m8NgpNZXRChFIOCUhm9ECIGPX4jS64oyUvQpx8MayCLe18nTeJUOxVMHhRAXajYIC/file/index.m3u8
 #EXTINF:-1 group-title="国际",ABC7 Bay Area
 https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+#EXTINF:-1 group-title="国际",FRANCE 24 English-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064592/ei/cFPhZq79KbjVi9oP2MqKwQQ/ip/92.205.15.128/id/Ap-UM1O9RBU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9nNPEob9ZiTqPfPnX9ZJyViC1IFg7pVlADwYy5WERYHh4WZ_Xn2I1nkvEQ4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51286683/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQDypmgtHD1G0xoeBIB0cblVTEXj_CWnhu8o_so-kRSoCICZh3toi6DTIZN9hxb_AX3F8pAuTQLYLQap29IfNpjfA/file/index.m3u8
+#EXTINF:-1 group-title="国际",FRANCE 24-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064619/ei/i1PhZqLtGIvsi9oP5LSJ8Qw/ip/92.205.15.128/id/l8PMl7tUDIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257037/txs/51257033%2C51257034%2C51257035%2C51257036%2C51257037/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9oSTcUbmAvPE22cadfqi2EdD9JyKf6kKoRxiqAuAPX2At25k1AWRLm2vDps/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNZoBybG0WUWM-FNgpaKoT7b_vRGkmhwnqX67sj4WFP4CIGZ-zy-v2dZahyIKiWWa58xU5DkN01sz_laJiDjgOg3g/file/index.m3u8
 #EXTINF:-1 group-title="国际",CBS News Bay Area
 https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
 #EXTINF:-1 group-title="国际",Euronews Live
@@ -303,12 +317,16 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="国际",ABC Australia-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064146/ei/slHhZoShKOyJi9oPgpbAqAQ/ip/92.205.15.128/id/vOTiJkg1voo.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257033/txs/51257033%2C51257034%2C51257035%2C51257036%2C51257037/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9obvE7iN3PUpGyt6wkcNp7r97zf5QNd_J7Bdm5veKl1BVrGXFBMSnYKkOU8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAN3Zlaf5aUfvAtuZkvqExi9ctjs2AKVyx-200D5G8BjlAiEAmNJsoCE_tpbfZpHv2GQBXzERET-mXBJBPwxFymhphZk%3D/file/index.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="国际",Al Jazeera-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064212/ei/9FHhZrf3E5nLi9oP46StsQ4/ip/92.205.15.128/id/gCNeDWCI0vo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9mLAktwzGawk9TSvPK5kI9aOTOAPwID0HF5DWq2e7TVkIHAKzdyqe0C2jeg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOsLvlUbTirN8oCui5Ou14X1hEbxe6atbgy2QMiCkMjHAiB2Kwme5CzoPX4vdVwbWZ6jL6Eiamf5CiU_H-J-Slh9uw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="国际",Arirang
@@ -463,21 +481,27 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 group-title="国际",印度NDTV
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 group-title="国际",印度NDTV-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064884/ei/lFThZtm3M7rKi9oP2cSVwQ4/ip/92.205.15.128/id/sr2Ry9JVDtU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9jQAnbYc8t3PGGYFKoNVxz_zmBBluPNI0ggBBcvzVAjCzXoY5vJyrWExD_c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51286684/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfw54Ri-5hlLwLmlZ0EWK_1HHq6gGDTkBdT0ujm4q1YwCIA7ASDiE_F9LGBxerNMIZO1WdbNvJnW4Z2703nuulciF/file/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
 http://www.91dos.cn:4022/rtp/239.61.2.183:9086
-#EXTINF:-1 tvg-name="凤凰资讯B" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯B
-http://171.110.10.194:8181/tsfile/live/1083_1.m3u8
+#EXTINF:-1 tvg-name=凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",YT凤凰资讯
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726062767/ei/T0zhZqH8Gc7Xi9oPw8O7yQQ/ip/86.107.43.88/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257030/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9opMEsD8ka1Hswx74NVI8SdJAnsK0uKAwA6j6TX13op0nBTY39ldV_v-LWo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNSyHNS9N2c67D9OKePqAyycVnzZkqsIX5chMg2siwqMCICjqN0npJHvmnM7oGUX-6FrxEfBdf9iLS4VVumf9FFZb/file/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id=“TVBS新闻” tvg-logo=" " group-title="港台",TVBS新闻
 http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 tvg-id=“TVBS新闻” tvg-logo=" " group-title="港台",TVBS新闻-YT
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726063804/ei/XFDhZqTQFZGN6dsPgfHAyQw/ip/92.205.15.128/id/m_dhMSvUCIc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257028/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9kZ9iFtc-OZN9bOwFt3XGuDJq1ml6vjqYS8L-7HiBaG3WwDExyEnbK2u-Cg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ-rFMrARiEVMs2epGO42aq6isiYXy10OM4HyAA3q5b8AiEAiZoTGRpmnoCbojEiUdIIHoMCOFvAI8O1Pl3UYgdraro%3D/file/index.m3u8
 #EXTINF:-1 tvg-id=“TVB翡翠台” tvg-logo=" " group-title="港台",TVB翡翠台
 http://zsntlqj.xicp.net:8896/bysid/82.m3u8
 #EXTINF:-1 tvg-id=“TVBS TW” tvg-logo=" " group-title="港台",TVBS-TW
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-id=“中天新闻” tvg-logo=" " group-title="港台",中天新闻
 http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
-#EXTINF:-1 tvg-id=“CTS华视欣慰” tvg-logo=" " group-title="港台",CTS华视新闻
+#EXTINF:-1 tvg-id=“中天新闻” tvg-logo=" " group-title="港台",YT中天新闻
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064769/ei/IVThZsauEMW36dsP-uCD4AY/ip/92.205.15.128/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9rXub7i4nZsPU-_WsfUtaSrZG_tBdLs26EXZmSJkf0wxgz-9wH1kHYsxBQc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOjY8oOWfb2Y13D1iu5Du6VEnwFIk255CbsSyKGAoAtICIQC4D5oYbA_7J-I5e6Gqvf78lwBdzgl_etroe3AujW1Feg%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id=“CTS华视新闻” tvg-logo=" " group-title="港台",CTS华视新闻
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-id=“寰宇台湾” tvg-logo=" " group-title="港台",寰宇台湾
 http://37.27.111.214:8080/live/63/hls.m3u8
