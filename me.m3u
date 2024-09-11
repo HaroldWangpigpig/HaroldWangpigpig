@@ -280,9 +280,11 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 group-title="国际",CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 group-title="国际",BBC-Bap
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",CNA-YT
@@ -485,7 +487,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726064884/ei/lFThZtm3M7rKi9oP2cSVwQ4/ip/92.205.15.128/id/sr2Ry9JVDtU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9jQAnbYc8t3PGGYFKoNVxz_zmBBluPNI0ggBBcvzVAjCzXoY5vJyrWExD_c/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51286684/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgfw54Ri-5hlLwLmlZ0EWK_1HHq6gGDTkBdT0ujm4q1YwCIA7ASDiE_F9LGBxerNMIZO1WdbNvJnW4Z2703nuulciF/file/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
 http://www.91dos.cn:4022/rtp/239.61.2.183:9086
-#EXTINF:-1 tvg-name=凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",YT凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",YT凤凰资讯
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1726062767/ei/T0zhZqH8Gc7Xi9oPw8O7yQQ/ip/86.107.43.88/id/HFib76ySpbU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51257030/txs/51257028%2C51257029%2C51257030%2C51257031%2C51257032/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Mv1m9opMEsD8ka1Hswx74NVI8SdJAnsK0uKAwA6j6TX13op0nBTY39ldV_v-LWo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNSyHNS9N2c67D9OKePqAyycVnzZkqsIX5chMg2siwqMCICjqN0npJHvmnM7oGUX-6FrxEfBdf9iLS4VVumf9FFZb/file/index.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
