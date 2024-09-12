@@ -249,11 +249,11 @@ https://0472.org/hls/cgtnd.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1 group-title="国际",CNA
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",CNA
 https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
-#EXTINF:-1 group-title="国际",CBC News
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",CBC News
 https://ythls.armelin.one/channel/UCuFFtHWoLl5fauMMD5Ww2jA.m3u8
-#EXTINF:-1 group-title="国际",ABC News Live
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",ABC News Live
 https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 #EXTINF:-1 group-title="国际",Live Now FOX
 https://ythls.armelin.one/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
