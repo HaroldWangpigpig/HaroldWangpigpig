@@ -255,13 +255,13 @@ https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 https://ythls.armelin.one/channel/UCuFFtHWoLl5fauMMD5Ww2jA.m3u8
 #EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",ABC News Live
 https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
-#EXTINF:-1 group-title="国际",Live Now FOX
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",Live Now FOX
 https://ythls.armelin.one/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
-#EXTINF:-1 group-title="国际",NBC News Now
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",NBC News Now
 https://ythls.armelin.one/channel/UCeY0bbntWzzVIaj2z3QigXg.m3u8
-#EXTINF:-1 group-title="国际",Sky News
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",Sky News
 https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
-#EXTINF:-1 group-title="国际",FRANCE 24 English
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",FRANCE 24 English
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="国际",Euronews Live
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
@@ -279,11 +279,11 @@ https://ythls.armelin.one/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",KBS World
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 group-title="国际",Bloomberg Asia
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",Bloomberg Asia
 https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-#EXTINF:-1 group-title="国际",Bloomberg Originals
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="国际",Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 #EXTINF:-1 group-title="国际",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
@@ -431,7 +431,7 @@ http://123.140.197.22/stream/1/play.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯Y
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" BANDWIDTH=2500000,RESOLUTION=1920x1080 group-title="港台",凤凰资讯Y
 https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文台
 http://ayolee.com:5253/udp/239.93.0.162:2192
@@ -449,7 +449,7 @@ http://4gtv.mumi.rip:9877/30/4gtv-4gtv009/index.m3u8
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-id=“寰宇台湾” tvg-logo=" " group-title="港台",寰宇台湾
 http://37.27.111.214:8080/live/63/hls.m3u8
-#EXTINF:-1 tvg-id=“寰宇台湾” tvg-logo=" " group-title="港台",寰宇新闻台
+#EXTINF:-1 BANDWIDTH=2500000,RESOLUTION=1920x1080 tvg-id=“寰宇台湾” tvg-logo=" " group-title="港台",寰宇新闻台
 https://ythls.armelin.one/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
 #EXTINF:-1 tvg-id=“东森新闻” tvg-logo=" " group-title="港台",东森新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
