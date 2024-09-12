@@ -250,25 +250,25 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="国际",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="国际",CNA
-https://ythls-v3.onrender.com/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
 #EXTINF:-1 group-title="国际",CBC News
-https://ythls-v3.onrender.com/channel/UCuFFtHWoLl5fauMMD5Ww2jA.m3u8
+https://ythls.armelin.one/channel/UCuFFtHWoLl5fauMMD5Ww2jA.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
-https://ythls-v3.onrender.com/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
+https://ythls.armelin.one/channel/UCBi2mrWuNuyYy4gbM6fU18Q.m3u8
 #EXTINF:-1 group-title="国际",Live Now FOX
-https://ythls-v3.onrender.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
+https://ythls.armelin.one/channel/UCJg9wBPyKMNA5sRDnvzmkdg.m3u8
 #EXTINF:-1 group-title="国际",NBC News Now
-https://ythls-v3.onrender.com/channel/UCeY0bbntWzzVIaj2z3QigXg.m3u8
+https://ythls.armelin.one/channel/UCeY0bbntWzzVIaj2z3QigXg.m3u8
 #EXTINF:-1 group-title="国际",Sky News
-https://ythls-v3.onrender.com/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
 #EXTINF:-1 group-title="国际",FRANCE 24 English
-https://ythls-v3.onrender.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="国际",Euronews Live
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 #EXTINF:-1 group-title="国际",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",ABC Australia
-https://ythls-v3.onrender.com/channel/UC5iLnYoF4Ryb63YdGD9RfWQ.m3u8
+https://ythls.armelin.one/channel/UC5iLnYoF4Ryb63YdGD9RfWQ.m3u8
 #EXTINF:-1 group-title="国际",Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",Dubai One
@@ -432,7 +432,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯Y
-https://ythls-v3.onrender.com/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
+https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文台
 http://ayolee.com:5253/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港台",香港卫视
@@ -450,6 +450,6 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 tvg-id=“寰宇台湾” tvg-logo=" " group-title="港台",寰宇台湾
 http://37.27.111.214:8080/live/63/hls.m3u8
 #EXTINF:-1 tvg-id=“寰宇台湾” tvg-logo=" " group-title="港台",寰宇新闻台
-https://ythls-v3.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
+https://ythls.armelin.one/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
 #EXTINF:-1 tvg-id=“东森新闻” tvg-logo=" " group-title="港台",东森新闻
 http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8540/.m3u8
