@@ -136,7 +136,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="国际",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 BANDWIDTH=100000000 RESOLUTION=1920x1080 group-title="国际",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 #EXTINF:-1 BANDWIDTH=100000000 RESOLUTION=1920x1080 group-title="国际",CBC News
 https://ythls.armelin.one/channel/UCuFFtHWoLl5fauMMD5Ww2jA.m3u8
 #EXTINF:-1 BANDWIDTH=100000000 RESOLUTION=1920x1080 group-title="国际",ABC News Live
@@ -160,7 +160,7 @@ http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="国际",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 group-title="国际",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="国际",Arirang
@@ -318,7 +318,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="港台",凤凰资讯
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" BANDWIDTH=100000000 RESOLUTION=1920x1080 group-title="港台",凤凰资讯Y
-https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
+http://50.7.234.10:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="港台",凤凰中文台
 http://ayolee.com:5253/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港台",香港卫视
