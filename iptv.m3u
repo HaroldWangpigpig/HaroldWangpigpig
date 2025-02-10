@@ -1,0 +1,123 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
+https://video.mytvsuper.xyz/live/44caed2af7aa2ac94e9a482692facb25d27e82875e6adfd2a8ffa005d1d89cc7.m3u8?token=695369543760593
+
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
+https://video.mytvsuper.xyz/live/d9de37a3cd0bd2489b0f801245aea39fde1611cb4f32b35744d719578892152f.m3u8?token=695369543760593
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://video.mytvsuper.xyz/live/bab5a7b0a3b87ccd68378ed15339cc02ebb698f357d2035416406013ed9a97d7.m3u8?token=695369543760593
+
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
+https://video.mytvsuper.xyz/live/dec6612a89c4dc6b4e86cfa8661da34f52e7edf3e8620fb710fdf4ab7cb50493.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="央视频道",CCTV4 中文国际
+https://video.mytvsuper.xyz/live/9bf4bbfe5d2b10f46a55446d7c7540dd4fc49626c621f8d6a39257e8d27ba774.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
+https://video.mytvsuper.xyz/live/2869355aee4fd6ddcea8d458c7636035beda2747814ec27af6fc81404e738693.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+https://video.mytvsuper.xyz/live/1b0e5fbbc2bacbe812f83ca23d2e7f8465ca0fd427aa21acddaa6fc89c500cee.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视频道",CCTV6 电影
+https://video.mytvsuper.xyz/live/1a733b187b6877893498d2e12feee5b02c880607b7602cb10fac3fdf579253d5.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+https://video.mytvsuper.xyz/live/bd1dcf15e80ecb17f67d5adde217ee205ac2050fca833ea3ba2d453dadb39c3d.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+https://video.mytvsuper.xyz/live/648507be761e606352d3e72f5f28a46d6c46bcbdf3596e40aa9c43871e1c6619.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视频道",CCTV9 记录
+https://video.mytvsuper.xyz/live/09ff6580e5bea13bda2a648d3e6b40fad2fb50d74d9ccad0dfae11852c972e86.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
+https://video.mytvsuper.xyz/live/cf8cb180ded123757ebe5a6fdd58746b99371d22cc975ad87f165b612a3697ae.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视频道",CCTV11 戏曲
+https://video.mytvsuper.xyz/live/ce3e5ab0fc8093f6a481aa928c9ce30158d7775934255c11fb6e8073ba5d6cc9.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+https://video.mytvsuper.xyz/live/06c9fda6c45062e19b68667e71aeaf1f39e92c2cd8f1bae6832d93d0c0d0a7bb.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="央视频道",CCTV13 新闻
+https://video.mytvsuper.xyz/live/58f15ece8f38190fcb4b87d3c2ed2dead3196399d33737331614148ced8348ae.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
+https://video.mytvsuper.xyz/live/dc37696c1f61c15c8dda6b04f45a3d1ba60a2719c41f962fbf6b9e9681cd269c.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
+https://video.mytvsuper.xyz/live/782ddc803629af0ce8493a72e2782d47d9e39f08161270716bc0ed6edd288333.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
+https://video.mytvsuper.xyz/live/6f24aa8f857f933da0d25318c7f1a692ebdfc838f8a8ad9d2d0098a9cae1f8d5.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
+https://video.mytvsuper.xyz/live/e59ea76250f8bc5c3e52a3d6091bdb67326bec3833f7e9a811af49587b5e4d26.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://json.doube.eu.org/logo/安徽卫视.png" group-title="卫视频道",安徽卫视
+https://video.mytvsuper.xyz/live/efe31d75ec2c1ec2dff51a24d3f339b5581f01b9706c6b86829945c76621bf25.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://json.doube.eu.org/logo/纪实科教.png" group-title="卫视频道",北京纪实科教
+https://video.mytvsuper.xyz/live/90b70cb649df771b31e5fa3adce95e9e00583bd33b60c5698ebbf2d4c867d2bc.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://json.doube.eu.org/logo/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+https://video.mytvsuper.xyz/live/27688b2ac465c5922ed52481c35023ef22d4aedf4a5a7bfdffca88dbb067989f.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://json.doube.eu.org/logo/北京卫视.png" group-title="卫视频道",北京卫视
+https://video.mytvsuper.xyz/live/05880f4514858e86c4f48df235db61908bd3c46458bbea7bf564bd137e4be5a4.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://json.doube.eu.org/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://video.mytvsuper.xyz/live/efce0e61252326a321cdea29d6276e298667934ed7c4814c4bac8b53ab0b4436.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://json.doube.eu.org/logo/东南卫视.png" group-title="卫视频道",福建东南卫视
+https://video.mytvsuper.xyz/live/be521bf220786bd34bfe77fba34aae36ff3130d632963d1d821173cd63e34467.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://json.doube.eu.org/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+https://video.mytvsuper.xyz/live/482f37266ac335773cfde2c2cea8c66e235d159b008aa86d6055671107f471bb.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://json.doube.eu.org/logo/大湾区卫视.png" group-title="卫视频道",广东大湾区卫视
+https://video.mytvsuper.xyz/live/f9b8563918a36672a8d0db0cafedfcfb80f0d25a2a51c5d678745f331ef6c57c.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://json.doube.eu.org/logo/嘉佳卡通.png" group-title="卫视频道",广东嘉佳卡通
+https://video.mytvsuper.xyz/live/1f826b754b93345370a0679fe4292d58082814e0507aa32e32e428e7304cab6c.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://json.doube.eu.org/logo/广东卫视.png" group-title="卫视频道",广东卫视
+https://video.mytvsuper.xyz/live/1efd2ef3780b3a77ffb0fdcfd1cd38b606bb90443fddff662799320733f780a8.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://json.doube.eu.org/logo/广西卫视.png" group-title="卫视频道",广西卫视
+https://video.mytvsuper.xyz/live/36379496e44085aebe148b0eebc301b1e286a534e631f8d12479fefe46fd2d80.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://json.doube.eu.org/logo/贵州卫视.png" group-title="卫视频道",贵州卫视
+https://video.mytvsuper.xyz/live/50111e743f3995ded996d293379019893913f2b7d937b2c22dd7098782d4b845.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://json.doube.eu.org/logo/海南卫视.png" group-title="卫视频道",海南卫视
+https://video.mytvsuper.xyz/live/8ab4a3c8848fc1f69ddaeb5d400b5e6d5e6b626c3e2cc39f8d197ee501ef8571.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://json.doube.eu.org/logo/河北卫视.png" group-title="卫视频道",河北卫视
+https://video.mytvsuper.xyz/live/4dd806a2af3a7833e455094e662db20d3982dca78d5d83bd44137b4a4d0907e9.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://json.doube.eu.org/logo/河南卫视.png" group-title="卫视频道",河南卫视
+https://video.mytvsuper.xyz/live/263ef84c921f8709ebd96fbc51c1b9a3b5c3abec546f831b367a8816bc3f822d.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://json.doube.eu.org/logo/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+https://video.mytvsuper.xyz/live/e3627d7a83d90c1c946cdcd4b508d727f719626165ae201a5240894bdf530556.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://json.doube.eu.org/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://video.mytvsuper.xyz/live/f435e1324d37431cebd6c27d310db999ef104380ffb7b49c9af2d21a87333b0b.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://json.doube.eu.org/logo/金鹰纪实.png" group-title="卫视频道",湖南金鹰纪实
+https://video.mytvsuper.xyz/live/26d7cdc995a9f9682bbb8abf4b8996dd3322e938a78fa803d592b25342edc55d.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://json.doube.eu.org/logo/金鹰卡通.png" group-title="卫视频道",湖南金鹰卡通
+https://video.mytvsuper.xyz/live/4a191b2e1ed7725162f76cfb32083fd9ecd2c11e1593dfae1085ffaa3fc46a28.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://json.doube.eu.org/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://video.mytvsuper.xyz/live/c09f4ae85132a29433e4deb866404033be90b3ee7015b567674e033aa4309d17.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://json.doube.eu.org/logo/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://video.mytvsuper.xyz/live/384e57ef2bc06dd2e5e1c736526c8b6f8c8da988f3be13255f8ae611eb107e93.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://json.doube.eu.org/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://video.mytvsuper.xyz/live/d1c9b3a72a6f39aa6f7aacc6c7bb9b12985d1433026d10236d7fa81a05d1f5ef.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://json.doube.eu.org/logo/优漫卡通.png" group-title="卫视频道",江苏优漫卡通
+https://video.mytvsuper.xyz/live/cd3e784ce766d2984714a733c29358711982eff3e0c013667ffd14719e0fa23b.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://json.doube.eu.org/logo/江西卫视.png" group-title="卫视频道",江西卫视
+https://video.mytvsuper.xyz/live/660d5ea22c99d6a1ce81edcba57962a837dbfcaeb6628aee35d69f7433bb6525.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://json.doube.eu.org/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://video.mytvsuper.xyz/live/82d5be76cc8fd589b01c44cbe3bb199a91e6aad0cfe0f1b1d750f53f5f9851a3.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://json.doube.eu.org/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://video.mytvsuper.xyz/live/4f2307e22684ab1b118d7a923fd082a29aa4e2a71d8467394dd991f008588b7b.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://json.doube.eu.org/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+https://video.mytvsuper.xyz/live/11fffce70ed79511a6c4a92298e7291779e9b00c33266aea66a4175581c13583.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://json.doube.eu.org/logo/安多卫视.png" group-title="卫视频道",青海安多卫视
+https://video.mytvsuper.xyz/live/e220b4043384b1c108cdc4b7c87caeb63de421dc648e49ad859efc00cd127321.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://json.doube.eu.org/logo/厦门卫视.png" group-title="卫视频道",厦门卫视
+https://video.mytvsuper.xyz/live/54e05718902801f287de9615dab40b5ee02dc02b940d13548adbab2abb014910.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://json.doube.eu.org/logo/山东卫视.png" group-title="卫视频道",山东卫视
+https://video.mytvsuper.xyz/live/30e06c442c1a6adb3de096307ff54e025d3a5c98ad15c03c024008e8c2a686ea.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://json.doube.eu.org/logo/山西卫视.png" group-title="卫视频道",山西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://json.doube.eu.org/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
+https://video.mytvsuper.xyz/live/118748d952ec052b0735de95ef175fd90eccbc21e70105a7d2c3ff641100bfec.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="上海ICS外语" tvg-name="上海ICS外语" tvg-logo="https://json.doube.eu.org/logo/上海ICS外语.png" group-title="卫视频道",上海ICS外语
+https://video.mytvsuper.xyz/live/bee8269e1f7629c7921f1ff7d89c434204f30b65554e2ae0cea003e28232e8ca.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://json.doube.eu.org/logo/第一财经.png" group-title="卫视频道",上海第一财经
+https://video.mytvsuper.xyz/live/7812a0f3eaca4dc8ae364412f3dd79ff65346051251dbe7934e0f0170b2cb269.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://json.doube.eu.org/logo/东方卫视.png" group-title="卫视频道",上海东方卫视
+https://video.mytvsuper.xyz/live/3d7a3d25c5ba1e71ca71c1695d965a2c0b81f4c8f705ab4af98b48794d7b4066.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://json.doube.eu.org/logo/深圳卫视.png" group-title="卫视频道",深圳卫视
+https://video.mytvsuper.xyz/live/94ad79fedf1965f12ffad872ffc77b69651ac13748fe54b60f0ddda855b05199.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://json.doube.eu.org/logo/四川卫视.png" group-title="卫视频道",四川卫视
+https://video.mytvsuper.xyz/live/25c4431c14a87175e835200e5a031f7c39b048d2a043a6ebf09e4e8fc2810c5d.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://json.doube.eu.org/logo/天津卫视.png" group-title="卫视频道",天津卫视
+https://video.mytvsuper.xyz/live/f7854e9ca0ddb1d53e2bf388e3bdcca92b574bf3f889f17db4b2c3fe64d431fa.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://json.doube.eu.org/logo/云南卫视.png" group-title="卫视频道",云南卫视
+https://video.mytvsuper.xyz/live/d99fd08c8d7b4b65b59288c94e5a9e4fd2b058d25d7a17300e8445e70fdb95d5.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://video.mytvsuper.xyz/live/9ce34be341ccc98a8fea35c611c687314519d9b9294594bcaae59b682cb41e60.m3u8?token=695369543760593
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://json.doube.eu.org/logo/重庆卫视.png" group-title="卫视频道",重庆卫视
+https://video.mytvsuper.xyz/live/d77aa04ab57e07712cd45b62886abfd3bb1761c75e219c7901c14dc2f0409658.m3u8?token=695369543760593
