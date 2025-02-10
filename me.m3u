@@ -199,9 +199,14 @@ http://123.140.197.22/stream/1/play.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="港台频道",凤凰卫视资讯台
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港台频道",凤凰卫视资讯台
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="港台频道",翡翠台
+https://video.mytvsuper.xyz/live/3fc2497f709c3b5c00c5c2bbc07a34a55b29873cdb46235549c21493db1460b2.m3u8?token=695369543760593
+#EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港台频道",Now無線新聞台
+https://video.mytvsuper.xyz/live/b527e62b9a87efcfa3cf56bb220b0842e6eb2b034db370f8b750f950fd973306.m3u8?token=695369543760593
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVBS无线新闻PNG.png" group-title="港台频道",TVBS新闻台
+https://video.mytvsuper.xyz/live/a86600e26cbda6e467a3cd113c574ff9b797eb46806eca24367175e4706d099e.m3u8?token=695369543760593
+#EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="国际频道",CNA亚洲新闻台
+https://video.mytvsuper.xyz/live/e295f98ba5c129a61366d3d0962aa3d34827904bfaa74de14c507c5e2d2c4b49.m3u8?token=695369543760593
 
 #EXTINF:-1 group-title="国际",BBC
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
