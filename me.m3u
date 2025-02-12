@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://221.14.157.252:4001/udp/225.1.4.73:1102
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -90,9 +89,9 @@ http://221.14.157.252:4001/udp/225.1.4.152:1307
 http://221.14.157.252:4001/udp/225.1.4.44:1073
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://221.14.157.252:4001/udp/225.1.4.47:1076
-#EXTINF:-1 group-title="卫视频道",兵团卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-#EXTINF:-1 group-title="卫视频道",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 group-title="地方频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -132,10 +131,6 @@ https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe
 https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 #EXTINF:-1 group-title="地方频道",乌察新闻
 https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-#EXTINF:-1 group-title="数字频道",南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 group-title="数字频道",重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 group-title="国际",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="国际",BBC
@@ -170,7 +165,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 https://video.mytvsuper.xyz/live/3fc2497f709c3b5c00c5c2bbc07a34a55b29873cdb46235549c21493db1460b2.m3u8?token=695369543760593
 #EXTINF:-1,tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻台.png" group-title="港台频道",Now無線新聞台
 https://video.mytvsuper.xyz/live/b527e62b9a87efcfa3cf56bb220b0842e6eb2b034db370f8b750f950fd973306.m3u8?token=695369543760593
-#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://epg.v1.mk/logo/TVBS无线新闻PNG.png" group-title="港台频道",TVBS新闻台
+#EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="TVB无线新闻PNG" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/TVBS%E6%96%B0%E9%97%BB.png" group-title="港台频道",TVBS新闻台
 https://video.mytvsuper.xyz/live/a86600e26cbda6e467a3cd113c574ff9b797eb46806eca24367175e4706d099e.m3u8?token=695369543760593
 #EXTINF:-1,tvg-id="亚洲新闻台" tvg-name="亚洲新闻台" tvg-logo="https://epg.v1.mk/logo/亚洲新闻台.png" group-title="国际频道",CNA亚洲新闻台
 https://video.mytvsuper.xyz/live/e295f98ba5c129a61366d3d0962aa3d34827904bfaa74de14c507c5e2d2c4b49.m3u8?token=695369543760593
