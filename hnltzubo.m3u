@@ -89,3 +89,7 @@ http://221.14.157.252:4001/udp/225.1.4.152:1307
 http://221.14.157.252:4001/udp/225.1.4.44:1073
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
 http://221.14.157.252:4001/udp/225.1.4.47:1076
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
