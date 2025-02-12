@@ -1,40 +1,34 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
-#EXTINF:-1 group-title="央视频道",CCTV-1 综合
-http://home.dzlove.top:35455/gaoma/cctv1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2 财经
-http://home.dzlove.top:35455/gaoma/cctv2.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-3 综艺
-http://home.dzlove.top:35455/gaoma/cctv3.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际
-http://home.dzlove.top:35455/gaoma/cctv4.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5 体育
-http://home.dzlove.top:35455/gaoma/cctv5.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-5+ 体育赛事
-http://home.dzlove.top:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-6 电影
-http://home.dzlove.top:35455/gaoma/cctv6.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7 国防军事
-http://home.dzlove.top:35455/gaoma/cctv7.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8 电视剧
-http://home.dzlove.top:35455/gaoma/cctv8.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-9 纪录
-http://home.dzlove.top:35455/gaoma/cctv9.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-10 科教
-http://home.dzlove.top:35455/gaoma/cctv10.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-11 戏曲
-http://home.dzlove.top:35455/gaoma/cctv11.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-12 社会与法
-http://home.dzlove.top:35455/gaoma/cctv12.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-13 新闻
-http://home.dzlove.top:35455/gaoma/cctv13.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-14 少儿
-http://home.dzlove.top:35455/gaoma/cctv14.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
-http://home.dzlove.top:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-16 奥林匹克
-http://home.dzlove.top:35455/gaoma/cctv16.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-17 农业农村
-http://home.dzlove.top:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 group-title="央视频道HD",CCTV-1高清
+http://221.14.157.252:4001/udp/225.1.4.73:1102
+#EXTINF:-1 group-title="央视频道HD",CCTV-2高清
+http://221.14.157.252:4001/udp/225.1.4.74:1103
+#EXTINF:-1 group-title="央视频道HD",CCTV-3高清
+http://221.14.157.252:4001/udp/225.1.4.158:1194
+#EXTINF:-1 group-title="央视频道HD",CCTV-4高清
+http://221.14.157.252:4001/udp/225.1.5.30:1333
+#EXTINF:-1 group-title="央视频道HD",CCTV-5高清
+http://221.14.157.252:4001/udp/225.1.4.159:1195
+#EXTINF:-1 group-title="央视频道HD",CCTV-6高清
+http://221.14.157.252:4001/udp/225.1.4.160:1196
+#EXTINF:-1 group-title="央视频道HD",CCTV-7高清
+http://221.14.157.252:4001/udp/225.1.4.76:1105
+#EXTINF:-1 group-title="央视频道HD",CCTV-8高清
+http://221.14.157.252:4001/udp/225.1.4.161:1197
+#EXTINF:-1 group-title="央视频道HD",CCTV-9高清
+http://221.14.157.252:4001/udp/225.1.4.77:1106
+#EXTINF:-1 group-title="央视频道HD",CCTV-11高清
+http://221.14.157.252:4001/udp/225.1.4.215:1268
+#EXTINF:-1 group-title="央视频道HD",CCTV-12高清
+http://221.14.157.252:4001/udp/225.1.4.79:1108
+#EXTINF:-1 group-title="央视频道HD",CCTV-13高清
+http://221.14.157.252:4001/udp/225.1.4.113:1293
+#EXTINF:-1 group-title="央视频道HD",CCTV-14高清
+http://221.14.157.252:4001/udp/225.1.4.80:1109
+#EXTINF:-1 group-title="央视频道HD",CCTV-16高清
+http://221.14.157.252:4001/udp/225.1.4.216:1269
+#EXTINF:-1 group-title="央视频道HD",CCTV-17高清
+http://221.14.157.252:4001/udp/225.1.4.226:2506
 #EXTINF:-1 group-title="央视频道",CGTN新闻
 http://drive.mxmy.net:8888/udp/239.3.1.215:4220
 #EXTINF:-1 group-title="央视频道",CGTN纪录
