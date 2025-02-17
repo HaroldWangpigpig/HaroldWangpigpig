@@ -1,36 +1,38 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://221.14.157.252:4001/udp/225.1.4.73:1102
+https://video.mytvsuper.xyz/live/8fcb0c53e623a784e1670924f5ee9d2873c546c50752f713068bb6eb2249c941.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://221.14.157.252:4001/udp/225.1.4.74:1103
+https://video.mytvsuper.xyz/live/7bcc5a06854ad57b40f0dc9bd4e8e7c04a52044cbeb4ef2733591975e4963320.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://221.14.157.252:4001/udp/225.1.4.158:1194
+https://video.mytvsuper.xyz/live/9297736c88dc57364da40d5878ba536cf20b2438920c60b801aad9589cd281ef.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://221.14.157.252:4001/udp/225.1.5.30:1333
+https://video.mytvsuper.xyz/live/d43640098097d819391ade3eac33ff9502da477c293a7d4e7d00f8f2dd7625b6.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://221.14.157.252:4001/udp/225.1.4.159:1195
+https://video.mytvsuper.xyz/live/1546ce7203c2c889842165a9b32cf9b62d8e1e5cd852e9f0c0f3aa85f098ec23.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://221.14.157.252:4001/udp/225.1.4.75:1104
+https://video.mytvsuper.xyz/live/b967e1b69c733c255430f943e936a9d34577928b839c0a94e98eb840f6d09c63.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://221.14.157.252:4001/udp/225.1.4.160:1196
+https://video.mytvsuper.xyz/live/cf3310aec1a55bd10a0bf5ad87cefb6abfbac219940060189fd06a43fef56d46.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://221.14.157.252:4001/udp/225.1.4.76:1105
+https://video.mytvsuper.xyz/live/dbb4690209412b85272e94d83f23f2bf5f00d6c2b15c5edf0f5926192b02beb4.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://221.14.157.252:4001/udp/225.1.4.161:1197
+https://video.mytvsuper.xyz/live/9ac93f0b8d7c3a2f8eef434086b4e4d0485ea6bcfd642e79f9e6a47832796182.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://221.14.157.252:4001/udp/225.1.4.77:1106
+https://video.mytvsuper.xyz/live/99a6077658448f184329c53fac40874be07e8c1e8d795d1c8165c4af46dab5a1.m3u8?token=695369543760593
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+https://video.mytvsuper.xyz/live/f9064aea3484bb931202b096026f724341f49d304f417d60e1ddf20f7f2ae753.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://221.14.157.252:4001/udp/225.1.4.215:1268
+https://video.mytvsuper.xyz/live/d45c0121d51fa2e5782e41c4481f4d43c49c47b3b2aeed41d95ae6952935b736.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://221.14.157.252:4001/udp/225.1.4.79:1108
+https://video.mytvsuper.xyz/live/921c810a5888df873228abb6c4ac3ef436fe77f617449d27d8f10b0ea7b259dd.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://221.14.157.252:4001/udp/225.1.4.113:1293
+https://video.mytvsuper.xyz/live/538a34243485d81d9d271c574fca4bec4c1e6d088705afd366a42317c141c631.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://221.14.157.252:4001/udp/225.1.4.80:1109
+https://video.mytvsuper.xyz/live/5fefe1ec2d8ee3fc68d93cfccbd6d0804ad072fca807369e2c00a3f90e3ecca1.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://221.14.157.252:4001/udp/225.1.4.216:1269
+https://video.mytvsuper.xyz/live/a5573cd3e6574ce34f6349694e4e1d030b68513f23e349c6a000a79d0a11b682.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://221.14.157.252:4001/udp/225.1.4.226:2506
+https://video.mytvsuper.xyz/live/d1d4c2f6e7dfa9e2bda899c57cc2bda95e48d0da545771faf3744d9c2506e6bf.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://221.14.157.252:4001/udp/225.1.4.98:1127
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
