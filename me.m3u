@@ -34,13 +34,13 @@ https://video.mytvsuper.xyz/live/a5573cd3e6574ce34f6349694e4e1d030b68513f23e349c
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 https://video.mytvsuper.xyz/live/d1d4c2f6e7dfa9e2bda899c57cc2bda95e48d0da545771faf3744d9c2506e6bf.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://221.14.157.252:4001/udp/225.1.4.98:1127
+https://video.mytvsuper.xyz/live/ed94ea55a3c0842846214ee6243c5b32eaf0298db80ca30c6e8359ea7418b4c5.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://221.14.157.252:4001/udp/225.1.4.81:1110
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://221.14.157.252:4001/udp/225.1.4.82:1111
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视频道",东方卫视
-http://221.14.157.252:4001/udp/225.1.4.85:1114
+https://video.mytvsuper.xyz/live/7c49344c84c91ca85d5429232d8482422c2f7d06b021c9a4c3f621bc8427b913.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视频道",四川卫视
 http://221.14.157.252:4001/udp/225.1.4.151:1306
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视频道",天津卫视
@@ -56,7 +56,7 @@ http://221.14.157.252:4001/udp/225.1.4.166:1207
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视频道",广西卫视
 http://221.14.157.252:4001/udp/225.1.4.31:1060
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://221.14.157.252:4001/udp/225.1.4.83:1112
+https://video.mytvsuper.xyz/live/486b0c1d19a605ee34220ab88d702e24138128c85b3b071658480d3a0e161184.m3u8?token=695369543760593
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="卫视频道",江西卫视
 http://221.14.157.252:4001/udp/225.1.4.139:1305
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="卫视频道",河北卫视
