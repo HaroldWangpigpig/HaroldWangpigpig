@@ -12,7 +12,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:-1 group-title="国际频道",Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 group-title="国际频道",Bloomberg TV
-https://tvpass.org/live/BloombergTV/sd
+https://tvpass.org/live/BloombergTV/hd
 #EXTINF:-1 group-title="国际频道",CNBC
 https://tvpass.org/live/CNBC/hd
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="国际频道",MSNBC
@@ -49,8 +49,8 @@ https://video.mytvsuper.xyz/live/b527e62b9a87efcfa3cf56bb220b0842e6eb2b034db370f
 https://video.mytvsuper.xyz/live/a86600e26cbda6e467a3cd113c574ff9b797eb46806eca24367175e4706d099e.m3u8?token=695369543760593
 #EXTINF:-1,tvg-id="TVB无线新闻PNG" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/hyxwt.png" group-title="港台频道",寰宇新闻台
 http://fm1077.serv00.net/Smart.php?id=huanyuxinwen_twn
-#EXTINF:-1 group-title="国际频道",ABC News Live
-https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
+#EXTINF:-1 group-title="国际频道",ABC News LA
+https://tvpass.org/live/abc-kabc-los-angeles-ca/HD
 #EXTINF:-1 group-title="国际频道",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际频道",Newsmax
