@@ -7,7 +7,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/hd
 #EXTINF:-1 group-title="国际频道",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
-#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="Live",Fox Business HD
+#EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="国际频道",Fox Business HD
 https://tvpass.org/live/FoxBusiness/hd
 #EXTINF:-1 https://epg.v1.mk/logo/亚洲新闻台.png group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -21,7 +21,7 @@ https://tvpass.org/live/CNBC/hd
 https://tvpass.org/live/MSNBC/hd
 #EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="国际频道",ABC News Live
 https://livetv-fa.tubi.video/abc-news/index.m3u8
-#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="Live",C-SPAN HD
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="国际频道",C-SPAN HD
 https://tvpass.org/live/CSPAN/hd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",Fox News
 https://tvpass.org/live/FoxNewsChannel/hd
