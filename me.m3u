@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/cc.xml"
 #EXTINF:-1 group-title="国际频道",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+http://fl2.moveonjoy.com/CNN/index.m3u8
 #EXTINF:-1 group-title="国际频道",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="国际频道" streamId="5" channel-number="5",BBC America
@@ -8,23 +8,21 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="国际频道",Fox News
 https://v1.thetvapp.to/hls/FoxNewsChannel/index.m3u8
 #EXTINF:-1 tvg-id="fox-business" tvg-name="Fox Business HD" group-title="国际频道",Fox Business HD
-https://tvpass.org/live/FoxBusiness/hd
+https://v1.thetvapp.to/hls/FoxBusiness/index.m3u8
 #EXTINF:-1 https://epg.v1.mk/logo/亚洲新闻台.png group-title="国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="国际频道",Al Jazeera
 https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
 #EXTINF:-1 group-title="国际频道",Bloomberg TV
-https://bloomberg-bloomberg-1-dk.samsung.wurl.tv/playlist.m3u8
+https://v1.thetvapp.to/hls/BloombergTV/index.m3u8
 #EXTINF:-1 group-title="国际频道",CNBC
-http://41.205.93.154/CNBC/index.m3u8
+https://v1.thetvapp.to/hls/CNBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1039.png" group-title="国际频道",MSNBC
-https://tvpass.org/live/MSNBC/hd
-#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="国际频道",ABC News Live
-https://livetv-fa.tubi.video/abc-news/index.m3u8
+https://v1.thetvapp.to/hls/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="abc-news-live-us" tvg-logo="https://epg.iptvx.one/picons/abc-news-live-us.png" group-title="国际频道",ABC News-LA
+https://v1.thetvapp.to/hls/abc-kabc-los-angeles-ca/index.m3u8
 #EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN HD" group-title="国际频道",C-SPAN HD
-https://tvpass.org/live/CSPAN/hd
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="国际频道",Fox News
-https://tvpass.org/live/FoxNewsChannel/hd
+https://v1.thetvapp.to/hls/CSPAN/index.m3u8
 #EXTINF:-1 group-title="国际频道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="国际频道",HNK Japan
